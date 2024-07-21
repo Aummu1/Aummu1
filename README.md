@@ -6,7 +6,7 @@
 - Nationality : I'm form Thailand~ ❄
 - Sex : Male ? or Boy ? or Man ? 🤠
 - Job : Student of Rajamangala University of Technology Thanyaburi 👨‍🎓
-- [welcome to my world. 📢](https://exsinnot.com/Aummu/) 
+- [Welcome to my world. 📢](https://exsinnot.com/Aummu/) 
 
 ## Experience
 
