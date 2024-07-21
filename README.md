@@ -2,6 +2,8 @@
 
 ---
 
+<h3>About Me</h3>
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
