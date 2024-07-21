@@ -3,10 +3,10 @@
 ## AboutMe 
 - Name : Aummu 💙
 - Age : 21 or It's just a number 📆
-- Nationality : Thai or One human being ❄
-- Sex : Male or Boy or Man 🤠
+- Nationality : I'm form Thailand~ ❄
+- Sex : Male ? or Boy ? or Man ? 🤠
 - Job : Student of Rajamangala University of Technology Thanyaburi 👨‍🎓
-- [Welcome to my world. 📢](https://exsinnot.com/Aummu/) 
+- [welcome to my world. 📢](https://exsinnot.com/Aummu/) 
 
 ## Experience
 
