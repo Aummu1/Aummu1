@@ -1,13 +1,12 @@
 # Hi am programer No Name ,But My name is Exsinnot ,But it doesn't matter.
 
 ## AboutMe 
-- Name : Exsinnot or Aun 💚
-- Age : 21 or It's just a number 🔢
-- Nationality : Thai or One human being 👌
-- Sex : Male or Boy or Man 👨
-- Job : Student of Rajamangala University of Technology Thanyaburi, Year 3 or Ever👨‍🎓
-- Tire : Newbie or beginner 🔰
-- [Want to know more? Hire me. 💵💵](https://www.facebook.com/WhyExsinnot) 
+- Name : Aummu 💙
+- Age : 21 or It's just a number 📆
+- Nationality : Thai or One human being ❄
+- Sex : Male or Boy or Man 🤠
+- Job : Student of Rajamangala University of Technology Thanyaburi👨‍🎓
+- [Welcome to my world. 📢](https://exsinnot.com/Aummu/) 
 
 ## Experience
 
