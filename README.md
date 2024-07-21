@@ -4,7 +4,7 @@
 - Name : Aummu 💙
 - Age : 21 or It's just a number 📆
 - Nationality : I'm form Thailand~ ❄
-- Sex : Male ? or Boy ? or Man ? 🤠
+- gender : Male ? or Boy ? or Man ? 🤠
 - Job : Student of Rajamangala University of Technology Thanyaburi 👨‍🎓
 - [Welcome to my world. 📢](https://exsinnot.com/Aummu/) 
 
