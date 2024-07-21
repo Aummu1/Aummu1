@@ -1,11 +1,11 @@
-# Hi am programer No Name ,But My name is Exsinnot ,But it doesn't matter.
+# "Hey, I'm a programmer known as Aum. Names are just labels; I'm here to learn and grow through code."
 
 ## AboutMe 
 - Name : Aummu 💙
 - Age : 21 or It's just a number 📆
 - Nationality : Thai or One human being ❄
 - Sex : Male or Boy or Man 🤠
-- Job : Student of Rajamangala University of Technology Thanyaburi👨‍🎓
+- Job : Student of Rajamangala University of Technology Thanyaburi 👨‍🎓
 - [Welcome to my world. 📢](https://exsinnot.com/Aummu/) 
 
 ## Experience
