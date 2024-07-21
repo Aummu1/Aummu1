@@ -1,8 +1,43 @@
-<h1>Hi am programer No Name ,But My name is Exsinnot ,But it doesn't matter.</h1>
+# Hi am programer No Name ,But My name is Exsinnot ,But it doesn't matter.
 
----
+## AboutMe 
+- Name : Exsinnot or Aun 💚
+- Age : 21 or It's just a number 🔢
+- Nationality : Thai or One human being 👌
+- Sex : Male or Boy or Man 👨
+- Job : Student of Rajamangala University of Technology Thanyaburi, Year 3 or Ever👨‍🎓
+- Tire : Newbie or beginner 🔰
+- [Want to know more? Hire me. 💵💵](https://www.facebook.com/WhyExsinnot) 
 
-<h3>About Me</h3>
+## Experience
+
+#### 2023
+- In Collabration between Hokkaido Information University,Japan and Rajamangala University of Technology Thanyaburi, Thai. t's a workshop to do projects. Create a website with Japanese friends
+- The Best of the Best Embedded System Developers TESA Top Gun Rally 2023 Topic "Monitoring and Management System of Flood and Drought Conditions" (award : 1st Top Score on AIoT Development) (Over all : 8th)
+
+### Skill
+|  Language | Score  (⭐x10)         | 
+| :------------------ | :---------------- | 
+| ***CSS Language***|⭐⭐⭐⭐⭐⭐⭐|
+| ***Dart Language***|⭐⭐⭐|
+| ***Other Language***|⭐⭐|
+| ***Java Language***|⭐|
+| ***HTML Language***|⭐⭐⭐⭐⭐⭐⭐|
+| ***PHP Language***|⭐⭐|
+| ***JS Language***|⭐⭐⭐⭐|
+| ***Python Language***|⭐⭐⭐|
+| ***C++ Language***|⭐|
+| ***C Language***|⭐⭐⭐|
+
+|  Programing Style | Score  (⭐x10)         | 
+| :------------------ | :---------------- | 
+| ***Back End***|⭐⭐⭐⭐⭐|
+| ***API***|⭐⭐⭐⭐⭐|
+| ***Hard Were***|⭐⭐⭐⭐|
+| ***Server***|⭐⭐⭐⭐⭐⭐|
+| ***Soft Were***|⭐⭐⭐⭐⭐|
+| ***Font End***|⭐⭐⭐⭐⭐⭐⭐⭐|
+| ***Mobile App***|⭐⭐⭐|
 
 ### :hammer_and_wrench: Languages and Tools :
 
